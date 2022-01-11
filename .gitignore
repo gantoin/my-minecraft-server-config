@@ -1,0 +1,18 @@
+# Logs
+.console_history
+/logs/*
+
+# Jars
+*.jar
+
+# Cache
+usercache.json
+
+# Backup
+*.backup
+
+# Maps
+/world*/*
+
+# IntelliJ
+.idea/
