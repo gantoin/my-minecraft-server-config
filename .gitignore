@@ -16,3 +16,10 @@ usercache.json
 
 # IntelliJ
 .idea/
+
+# MacOS
+.DS_Store
+
+# Useless
+/libraries/de/oceanlabs/mcp/mcp_config/1.18.1-20211210.034407/
+/libraries/net/minecraft/server/1.18.1-20211210.034407/
